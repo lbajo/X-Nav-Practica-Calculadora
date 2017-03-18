@@ -1,0 +1,56 @@
+body{
+	background-image: url("pizarra.jpg");
+}
+
+div {
+	background-color : blue;
+	border-style: outset;
+	border-radius: 15px;
+	border-width: 5px;
+	margin-left: 400px; 
+	margin-right: 500px;
+}
+
+#help{
+	margin-left: 100px; 
+	margin-top: 10px;
+	padding: 15px 15px;
+}
+
+#display{
+	background-color: gray;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 40px; 
+	margin-right: 40px; 
+	padding: 15px 10px;
+}
+
+#cos{
+	margin-left: 105px; 
+	padding: 10px 10px;
+}
+
+#seven, #four, #one, #zero{
+	margin-left: 80px; 
+	padding: 10px 10px;
+}
+
+#eight,#nine, #five, #six, #two, #three, #sum, #sub, #sin, #tan, #p1, #p2, #equal, #reset, #mult, #div, #pto{
+	padding: 10px 10px; 
+}
+#equal{
+	margin-left: 25px; 
+	background-color: #b71c1c;
+	color: white;
+}
+
+#p1, #p2, #mult, #div, #sum, #sub{
+	background-color: red;
+	color: white;
+}
+
+#cos, #sin, #tan{
+	background-color: orange;
+	color: white;
+}
